@@ -1,12 +1,12 @@
-[23:55:20] IGI2 v.1.0 GMT Thu Jun 01 23:55:20 2017
+[17:00:17] IGI2 v.1.0 GMT Sat Jun 03 17:00:17 2017
 
-[23:55:20] Winsock 514 257 started
-[23:55:20] Winsock description: 'WinSock 2.0'
-[23:55:20] Winsock system status: 'Running'
-[23:55:42] Created loading screen
-[23:55:46] Deleted loading screen
-[00:17:16] Created loading screen
-[00:17:18] Deleted loading screen
-[00:35:48] LeaveGame: No net running, no player to destroy
-[00:35:48] NetManager_Quit: Buffer state not empty
-[00:35:52] Winsock closed and cleaned up
+[17:00:17] Winsock 514 257 started
+[17:00:17] Winsock description: 'WinSock 2.0'
+[17:00:17] Winsock system status: 'Running'
+[17:00:35] Created loading screen
+[17:00:39] Deleted loading screen
+[17:34:01] Created loading screen
+[17:34:03] Deleted loading screen
+[17:59:00] LeaveGame: No net running, no player to destroy
+[17:59:00] NetManager_Quit: Buffer state not empty
+[17:59:05] Winsock closed and cleaned up
